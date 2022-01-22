@@ -1,10 +1,9 @@
-package com.vytrack.step_definitions;
+package com.SkenarioLabs.step_definitions;
 
-import com.vytrack.pages.LoginPage;
-import com.vytrack.utilities.BrowserUtils;
-import com.vytrack.utilities.ConfigurationReader;
-import com.vytrack.utilities.Driver;
-import io.cucumber.java.en.And;
+import com.SkenarioLabs.pages.LoginPage;
+import com.SkenarioLabs.utilities.BrowserUtils;
+import com.SkenarioLabs.utilities.ConfigurationReader;
+import com.SkenarioLabs.utilities.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
